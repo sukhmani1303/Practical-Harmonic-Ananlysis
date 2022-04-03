@@ -1,5 +1,5 @@
 # Practical-Harmonic-Ananlysis-Solver
-
+> This is a beta version & might get updates to improve/add more features to tackle the problem. <br>For Contributing, reach out to me sukhmani1303@gmail.com
 <br>
 
 ## INTRODUCTION <BR>
