@@ -39,7 +39,10 @@
   <img src='https://www.linkpicture.com/q/answers.png' type='image'><br>
   - **a<sub>0</sub>** : For a<sub>0</sub> , you need to click **a0** button which will display the decimal value of a0.<br>
   - **a<sub>n</sub>** : You will have as many a<sub>n</sub> values as the number of Harmonics you entered. So, to view each value you need to click **an** button.<br> For viewing the next a<sub>n</sub> value you simple press **an** button again and so on. 
-  - **b<sub>n</sub>** : Again, You will have as many b<sub>n</sub> values as the number of Harmonics you entered. So, to view each value you need to click **bn** button.<br> For viewing the next b<sub>n</sub> value you simple press **bn** button again and so on. 
+  - **b<sub>n</sub>** : Again, You will have as many b<sub>n</sub> values as the number of Harmonics you entered. So, to view each value you need to click **bn** button.<br> For viewing the next b<sub>n</sub> value you simple press **bn** button again and so on. <br><br>
+  
+  <p align = "center" ><a href = "https://www.buymeacoffee.com/sukhmani1303"><img src = "https://ucd4b4566a87f1cf4166cfcf97f9.previews.dropboxusercontent.com/p/thumb/ABeC1SqF_2zlp2DbvUOsQ9_UQZbefbUOhhxIWPd6437PuMl1JqdYBMYBlxYC-5XKopLaJfBoeN_Qiuny9pNRaSro8Yn0PGCXGmpWkWlRyqLcSWYJontyuHBKiPcCFQPSHYcA7Gv_EviUm50lXHoaogx-6tfNy6GA6Aw0Doky5CAB_dOquvVcK_X56n-MwDNiqSAPT22X4eWnfW1DzqXWtY4RGW0WCFRCKcipPEmPwin37cDzDGrVsh8IcVsCh0W_S-n8L_luMdmDCZg9OU3HgrMV6-JoXci9svntdDovu6L_f6fxfbTE9YOTqKnlbsGm3UguJHznLVpHvQXPEKoyELFi6Yyb__6Urda4vO9YKji0xTV_-ROSBBoxTeXxNpAqCn28018099F42IzGDaAOYF0yqwa0lkftw0WbEcrWFxtPHQ/p.png" width = "240px"></a></p>
+  <br><br>
   
   ```
   NOTE : THIS APPLICATION ONLY TAKES X VALUES IN DEGREES
